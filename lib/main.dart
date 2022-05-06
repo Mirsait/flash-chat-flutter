@@ -7,7 +7,7 @@ import 'screens/registration_screen.dart';
 void main() => runApp(const FlashChat());
 
 class FlashChat extends StatelessWidget {
-  const FlashChat({Key? key}) : super(key: key);
+  const FlashChat({Key key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
